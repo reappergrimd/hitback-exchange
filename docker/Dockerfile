@@ -4,7 +4,7 @@ MAINTAINER Hitback maurodelazeri@gmail.com
 RUN /etc/init.d/nginx start
 RUN /etc/init.d/redis-server start
 RUN /etc/init.d/rabbitmq-server start
-RUN cd /home/deploy/; git clone https://github.com/maurodelazeri/hitback-exchange.git
+RUN cd /home/deploy/; git clone https://github.com/reappergrimd/hitback-exchange.git
 RUN chown -R deploy:deploy /home/deploy/hitback-exchange/
 USER deploy
 WORKDIR /home/deploy/hitback-exchange/
