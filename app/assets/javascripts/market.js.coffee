@@ -1,5 +1,3 @@
-#= require es5-shim.min
-#= require es5-sham.min
 #= require jquery
 #= require jquery_ujs
 #= require jquery.mousewheel
