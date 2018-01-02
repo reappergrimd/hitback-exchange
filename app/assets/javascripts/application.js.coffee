@@ -1,6 +1,5 @@
 #= require jquery
 #= require jquery_ujs
-#= require jquery-timing.min
 #= require bootstrap
 #= require bootstrap-switch.min
 #= require scrollIt
