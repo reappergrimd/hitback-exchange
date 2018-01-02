@@ -16,14 +16,11 @@
 #= require_self
 #= require ./funds/funds
 
-#= require es5-shim.min
-#= require es5-sham.min
 #= require jquery_ujs
 #= require bootstrap
 #
 #= require bignumber
 #= require moment
-#= require ZeroClipboard
 #= require underscore
 #= require flight.min
 #= require list
