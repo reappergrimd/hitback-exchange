@@ -1,5 +1,3 @@
-#= require es5-shim.min
-#= require es5-sham.min
 #= require jquery
 #= require jquery_ujs
 #= require jquery-timing.min
@@ -9,7 +7,6 @@
 #= require moment
 #= require bignumber
 #= require underscore
-#= require ZeroClipboard
 #= require flight.min
 #= require pusher.min
 #= require list
