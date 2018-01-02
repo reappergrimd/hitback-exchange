@@ -1,7 +1,6 @@
 #= require jquery
 #= require jquery_ujs
 #= require bootstrap
-#= require bootstrap-switch.min
 #= require scrollIt
 #= require moment
 #= require bignumber
