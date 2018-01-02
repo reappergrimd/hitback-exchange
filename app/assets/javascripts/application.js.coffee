@@ -1,7 +1,6 @@
 #= require jquery
 #= require jquery_ujs
 #= require bootstrap
-#= require scrollIt
 #= require moment
 #= require bignumber
 #= require underscore
